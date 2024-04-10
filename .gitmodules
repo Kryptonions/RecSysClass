@@ -1,0 +1,6 @@
+[submodule "recall/ComiRec"]
+	path = recall/ComiRec
+	url = https://github.com/THUDM/ComiRec.git
+[submodule "recall/graph_nets"]
+	path = recall/graph_nets
+	url = https://github.com/dsgiitr/graph_nets.git
